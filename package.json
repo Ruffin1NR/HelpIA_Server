@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "@types/jsdom": "^21.1.7",
+    "axios": "^1.8.3",
+    "body-parser": "^2.2.0",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsdom": "^26.0.0",
+    "mime-types": "^3.0.1",
+    "puppeteer": "^24.4.0"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
