@@ -1,6 +1,3 @@
-Voici un exemple de fichier `README.md` bien structuré pour ton projet Node.js :
-
----
 
 ```markdown
 # Help IA – API d’Assistance pour Personnes en Situation de Handicap
